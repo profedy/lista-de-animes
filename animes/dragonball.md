@@ -1,14 +1,6 @@
 # Dragon Ball 
 
-###### Personagens Sayajins
+###### 😊 Resumo do anime
 
-- Goku
-- Vegeta
-- Brolly
-- Trunks
-- Gohan
-- Goten
-- Bardock
-- Kybe
-- Kaulifa
+é uma [franquia de mídia](https://pt.wikipedia.org/wiki/Franquia_de_mídia) japonesa criada por [Akira Toriyama](https://pt.wikipedia.org/wiki/Akira_Toriyama). Originalmente iniciada com uma série de [mangá](https://pt.wikipedia.org/wiki/Mangá) que foi escrita e ilustrada por Toriyama, teve os seus capítulos serializados na revista *[Weekly Shonen Jump](https://pt.wikipedia.org/wiki/Weekly_Shonen_Jump)* de 1984 a 1995, com os seus 519 capítulos compilados em 42 volumes *[tankōbon](https://pt.wikipedia.org/wiki/Tankōbon)* e publicados pela editora [Shueisha](https://pt.wikipedia.org/wiki/Shueisha). *Dragon Ball* foi inicialmente inspirado pelo clássico romance chinês *[Jornada ao Oeste](https://pt.wikipedia.org/wiki/Jornada_ao_Oeste)*. A série segue as aventuras do protagonista, [Son Goku](https://pt.wikipedia.org/wiki/Son_Goku), desde sua infância até a idade adulta enquanto ele treina [artes marciais](https://pt.wikipedia.org/wiki/Artes_marciais) e explora o mundo em busca de sete esferas conhecidas como as Esferas do Dragão, que convocam um dragão que concede um desejo quando reunidas. Ao longo de sua jornada, Goku faz vários amigos e luta contra uma grande variedade de vilões, muitos dos quais também procuram as Esferas do Dragão.
 
